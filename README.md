@@ -1,3 +1,3 @@
 # finalproject
 
-BULALORDZ presents RAVENOUS
+Inventory Management Software with Supabase for database management
